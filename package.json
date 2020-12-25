@@ -1,10 +1,10 @@
 {
   "name": "hlo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node your-script.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/nagaraju440/hlo/issues"
   },
-  "homepage": "https://github.com/nagaraju440/hlo#readme"
+  "homepage": "https://github.com/nagaraju440/hlo#readme",
+  "description": ""
 }
